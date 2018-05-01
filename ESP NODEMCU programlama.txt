@@ -1,0 +1,3 @@
+ ESp nnin IO0 ayaðý gnd de iken arduino ide de program yüklenme aþamasýna geldiðinde  (derle ve gönder butonuna basýldýðýnda sað alt köþedeki progress bar sonda olduðunda )
+
+esp ye reset attýrmak gerekmekte. Buda rst pini gnd ye dokundurarak oluyor
